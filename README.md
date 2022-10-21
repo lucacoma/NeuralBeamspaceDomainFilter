@@ -1,1 +1,1 @@
-## Unoficcial Implementation of "Liu, W., Li, A., Wang, X., Yuan, M., Chen, Y., Zheng, C., & Li, X. (2022). A Neural Beamspace-Domain Filter for Real-Time Multi-Channel Speech Enhancement. Symmetry, 14(6), 1081."
+## Unofficial Implementation of "Liu, W., Li, A., Wang, X., Yuan, M., Chen, Y., Zheng, C., & Li, X. (2022). A Neural Beamspace-Domain Filter for Real-Time Multi-Channel Speech Enhancement. Symmetry, 14(6), 1081."
